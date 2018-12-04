@@ -1,4 +1,4 @@
-# Introduction to C Notes by Cory Paterson.
+# Introduction to C
 ---
 ### Compiler Errors and Warnings
 
